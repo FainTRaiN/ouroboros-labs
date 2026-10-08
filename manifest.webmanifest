@@ -1,0 +1,17 @@
+{
+  "name": "우로보로스 랩스",
+  "short_name": "우로보로스",
+  "description": "차고의 AI 스타트업에서 달과 태양계, 그리고 우주의 끝까지.",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d18",
+  "theme_color": "#0b0d18",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
